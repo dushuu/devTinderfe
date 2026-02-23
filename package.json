@@ -1,0 +1,46 @@
+{
+  "name": "devtinderfe",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.2.1",
+    "axios": "^1.13.5",
+    "classnames": "^2.5.1",
+    "date-fns": "^4.1.0",
+    "js-cookie": "^3.0.5",
+    "jwt-decode": "^4.0.0",
+    "lodash": "^4.17.23",
+    "lucide-react": "^0.575.0",
+    "react": "^18.3.1",
+    "react-confirm-alert": "^3.0.6",
+    "react-datepicker": "^9.1.0",
+    "react-dom": "^18.3.1",
+    "react-helmet-async": "^2.0.5",
+    "react-hook-form": "^7.71.2",
+    "react-query": "^3.39.3",
+    "react-router-dom": "^7.13.0",
+    "react-transition-group": "^4.4.5",
+    "recharts": "^3.7.0",
+    "sass": "^1.97.3",
+    "tailwindcss": "^4.2.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.1",
+    "daisyui": "^5.5.19",
+    "eslint": "^9.39.1",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.4.24",
+    "globals": "^16.5.0",
+    "vite": "^7.3.1"
+  }
+}
